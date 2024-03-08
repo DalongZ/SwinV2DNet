@@ -1,2 +1,3 @@
 # DST-VGG
-The python codes of DST-VGG. Our work has been submitted to IEEE TGRS, and we will release the codes after the manuscript is accepted. Concact: zhengdl@njust.edu.cn.
+我们的模型实现了最先进的检测性能，如需最佳权重，请联系第一作者邮箱！下一个改进的研究者，你已经站在了巨人的肩膀上！Congratulations！
+Concact: zhengdl@njust.edu.cn.
